@@ -1,4 +1,3 @@
-# UDP-Pinger
 Part A of ECSE 4670 (Computer Communication Networks) at RPI
 
 Server code:
